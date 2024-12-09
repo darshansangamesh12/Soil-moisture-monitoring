@@ -46,6 +46,3 @@ The Arduino code for this project is available in the **`code/`** directory of t
 - Integrate with IoT platforms for remote monitoring.  
 - Replace LEDs with an LCD/graphical display for detailed output.  
 
----  
-
-Let me know if you’d like any specific changes or additions! 😊
